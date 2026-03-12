@@ -193,7 +193,7 @@ Roles are determined by the email prefix:
 
 | Variable | Description | Example |
 |---|---|---|
-| `MONGODB_URI` | MongoDB Atlas connection string | `mongodb+srv://user:pass@cluster.mongodb.net/db` |
+| `MONGODB_URI` | MongoDB Atlas connection string | `mongodb+srv://<username>:<password>@cluster.mongodb.net/dbname` |
 | `PORT` | Backend server port | `8000` |
 | `TOKEN_SECRET_KEY` | JWT signing secret key | `my_super_secret_key_123` |
 
