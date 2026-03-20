@@ -30,7 +30,7 @@ The Anti-Clashing engine validates every new timetable entry against the existin
 
 ## 🗄️ Database Diagram
 
-![Database Diagram](./docs/database-diagram.png)
+![Database Diagram](./docs/database-diagram.jpeg)
 ---
 
 ## ✨ Features
